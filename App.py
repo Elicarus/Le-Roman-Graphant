@@ -3,8 +3,6 @@ from PyQt5.QtWidgets import QDesktopWidget, QApplication
 from PyQt5.QtWebEngineWidgets import QWebEngineView
 import os
 import sys
-
-from pathlib import Path
 #import streamlit as st
 
 def main() :
