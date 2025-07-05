@@ -1,2 +1,3 @@
 libgl1-mesa-glx
 libnss3
+libXcomposite
