@@ -23,7 +23,6 @@ libxkbcommon0
 libxkbcommon-x11-0
 libjpeg62
 libpng16-16
-libwebp7
 libopus0
 libwoff1
 libharfbuzz0b
