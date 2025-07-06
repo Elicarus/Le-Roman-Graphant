@@ -1,4 +1,0 @@
-PyQt5==5.15.11
-PyQt5_sip==12.17.0
-PyQtWebEngine==5.15.7
-streamlit==1.46.1
